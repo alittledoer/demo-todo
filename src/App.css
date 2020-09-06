@@ -37,19 +37,3 @@
     transform: rotate(360deg);
   }
 }
-
-.complete {
-  text-decoration: line-through;
-}
-
-
-h2.beforeYouDie {
-  font-family: "Dancing Script", cursive;
-  font-size: 250%;
-}
-
-h1.beforeYouDie {
-  font-family: "Dancing Script", cursive;
-  color: firebrick;
-  font-size: 500%;
-}
